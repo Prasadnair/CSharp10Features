@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3e0c1f8-6141-4cc3-afde-6d80bbe83d65": {
+      "ProjectGuid": "e3e0c1f8-6141-4cc3-afde-6d80bbe83d65",
+      "DisplayName": "GlobalUsingDirective",
+      "ColorIndex": 0
+    },
+    "ced19d18-2d3a-4864-8397-993ef499939a": {
+      "ProjectGuid": "ced19d18-2d3a-4864-8397-993ef499939a",
+      "DisplayName": "FileScopedNamespace",
+      "ColorIndex": 1
+    },
+    "cff43f0e-e365-4354-a566-c0cc82c93f0e": {
+      "ProjectGuid": "cff43f0e-e365-4354-a566-c0cc82c93f0e",
+      "DisplayName": "ConstantInterpolatedString",
+      "ColorIndex": 2
+    },
+    "8486c77f-6773-4a80-a225-aeeed315766b": {
+      "ProjectGuid": "8486c77f-6773-4a80-a225-aeeed315766b",
+      "DisplayName": "LambdaImprovements",
+      "ColorIndex": 3
+    },
+    "d4652b02-9ef3-4f99-9651-151e74d1af69": {
+      "ProjectGuid": "d4652b02-9ef3-4f99-9651-151e74d1af69",
+      "DisplayName": "NullParameteCheck",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

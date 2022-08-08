@@ -1,0 +1,15 @@
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\bin\Debug\net6.0\ConstantInterpolatedString.exe
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\bin\Debug\net6.0\ConstantInterpolatedString.deps.json
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\bin\Debug\net6.0\ConstantInterpolatedString.runtimeconfig.json
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\bin\Debug\net6.0\ConstantInterpolatedString.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\bin\Debug\net6.0\ref\ConstantInterpolatedString.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\bin\Debug\net6.0\ConstantInterpolatedString.pdb
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.csproj.AssemblyReference.cache
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.AssemblyInfoInputs.cache
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.AssemblyInfo.cs
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.csproj.CoreCompileInputs.cache
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ref\ConstantInterpolatedString.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.pdb
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\ConstantInterpolatedString\obj\Debug\net6.0\ConstantInterpolatedString.genruntimeconfig.cache

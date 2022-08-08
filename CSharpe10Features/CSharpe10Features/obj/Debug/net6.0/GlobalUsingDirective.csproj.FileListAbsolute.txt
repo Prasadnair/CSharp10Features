@@ -1,0 +1,15 @@
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\bin\Debug\net6.0\GlobalUsingDirective.exe
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\bin\Debug\net6.0\GlobalUsingDirective.deps.json
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\bin\Debug\net6.0\GlobalUsingDirective.runtimeconfig.json
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\bin\Debug\net6.0\GlobalUsingDirective.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\bin\Debug\net6.0\ref\GlobalUsingDirective.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\bin\Debug\net6.0\GlobalUsingDirective.pdb
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.csproj.AssemblyReference.cache
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.AssemblyInfoInputs.cache
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.AssemblyInfo.cs
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.csproj.CoreCompileInputs.cache
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\ref\GlobalUsingDirective.dll
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.pdb
+D:\Prasad\Articles\CSharp10Features\CSharpe10Features\CSharpe10Features\obj\Debug\net6.0\GlobalUsingDirective.genruntimeconfig.cache
